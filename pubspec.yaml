@@ -1,7 +1,8 @@
 name: flutter_pos_platform
 description: A flutter plugin that prints esc commands to printers in different platforms such as android, ios, windows and different interfaces Bluetooth and BLE, TCP and USB
-version: 1.1.2
+version: 0.0.1
 homepage: https://github.com/linqhaul/flutter_pos_platform
+publisher: linqhaul.com
 
 environment:
   sdk: '>=3.4.3 <4.0.0'
